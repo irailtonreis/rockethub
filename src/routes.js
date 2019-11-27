@@ -8,8 +8,8 @@ export default function Routes(){
   return(
     <BrowserRouter>
       <Switch>
-        <Route path="/" component={Main}/>
-        <Route path="/rockethub/repository/:repository" component={Repository}/>
+        <Route path={process.env.PUBLIC_URL + '/'}>/" component={Main}/>
+        <Route path={process.env.PUBLIC_URL+"/repository/:repository"} component={Repository}/>
       </Switch>
     </BrowserRouter>
   );
