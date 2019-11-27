@@ -1,9 +1,11 @@
 {
-  "name": "modulo05",
+  "name": "rockethub",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://irailtonreis.github.io/rockethub/",
   "dependencies": {
     "axios": "^0.19.0",
+    "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -16,6 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "browserslist": {
