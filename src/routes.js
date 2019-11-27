@@ -9,7 +9,7 @@ export default function Routes(){
     <BrowserRouter>
       <Switch>
         <Route path="/" component={Main}/>
-        <Route path="rockethub/repository/:repository" component={Repository}/>
+        <Route path="/rockethub/repository/:repository" component={Repository}/>
       </Switch>
     </BrowserRouter>
   );
