@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/rockethub/static/js/main.5eef9242.chunk.js",
-    "main.js.map": "/rockethub/static/js/main.5eef9242.chunk.js.map",
+    "main.js": "/rockethub/static/js/main.757b0006.chunk.js",
+    "main.js.map": "/rockethub/static/js/main.757b0006.chunk.js.map",
     "runtime-main.js": "/rockethub/static/js/runtime-main.ee672465.js",
     "runtime-main.js.map": "/rockethub/static/js/runtime-main.ee672465.js.map",
     "static/js/2.549f93a4.chunk.js": "/rockethub/static/js/2.549f93a4.chunk.js",
     "static/js/2.549f93a4.chunk.js.map": "/rockethub/static/js/2.549f93a4.chunk.js.map",
     "index.html": "/rockethub/index.html",
-    "precache-manifest.38cdfe9b586712ccd8bd51e01536aea1.js": "/rockethub/precache-manifest.38cdfe9b586712ccd8bd51e01536aea1.js",
+    "precache-manifest.6a5f62f8682427607ee42cf00b50643f.js": "/rockethub/precache-manifest.6a5f62f8682427607ee42cf00b50643f.js",
     "service-worker.js": "/rockethub/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.ee672465.js",
     "static/js/2.549f93a4.chunk.js",
-    "static/js/main.5eef9242.chunk.js"
+    "static/js/main.757b0006.chunk.js"
   ]
 }
