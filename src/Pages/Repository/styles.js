@@ -74,7 +74,7 @@ export const IssueList = styled.ul`
           }
         }
         span{
-          background: #eee;
+          background: #27ae60;
           color: #333;
           border-radius: 2px;
           font-size: 12px;
